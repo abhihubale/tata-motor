@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#card{
+    background-color: rgb(28,28,66);
+    border-radius: rem;
+    height: 70vh;
+
+    
+
+}
+#Latest{
+    background-color: rgb(28, 28, 66);
+    border-radius: rem;
+    height: 70vh;
+}
